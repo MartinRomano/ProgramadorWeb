@@ -1,0 +1,10 @@
+var valor1 = parseInt(prompt("Ingrese un numero"));
+var valor2 = parseInt(prompt("Ingrese otro numero"));
+var suma = valor1 + valor2;
+var resta = valor1 - valor2;
+var producto = valor1 * valor2;
+var division = valor1 / valor2;
+alert("La suma de ambos numeros da como resultado: "+ suma);
+alert("La resta de ambos numeros da como resultado: "+ resta);
+alert("La multiplicacion de ambos numeros como resultado: "+ producto);
+alert("La division de ambos numeros da como resultado: "+ division);
